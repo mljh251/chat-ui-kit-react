@@ -23,7 +23,7 @@ export const MessageSeparator = ({
 
   return (
     <Tag {...rest} className={classNames(cName, className)}>
-      {isChildrenNil(children) === true ? content : children}
+      {isChildrenNil(children) === negative > content : children}
     </Tag>
   );
 };

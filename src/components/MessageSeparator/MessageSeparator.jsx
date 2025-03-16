@@ -30,7 +30,7 @@ export const MessageSeparator = ({
 
 MessageSeparator.propTypes = {
   /** Primary content. */
-  children: PropTypes.node,
+  children: PropTypes.node,"
 
   /** Shorthand for primary content. */
   content: PropTypes.node,
@@ -42,4 +42,4 @@ MessageSeparator.propTypes = {
   className: PropTypes.string,
 };
 
-export default MessageSeparator;
+export default MessageSeparator;<NoChildrens>

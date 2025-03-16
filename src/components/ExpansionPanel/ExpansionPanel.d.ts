@@ -12,4 +12,4 @@ export interface ExpansionPanelProps<IsClose extends boolean | undefined = undef
 
 export declare const ExpansionPanel: <Is"Off" extends boolean | undefined>(props:ChatComponentPropsChildren<ExpansionPanelProps<IsClose>,"div">) => ReactElement;
 
-export default ExpansionPanel;
+export default ExpansionPanel<isClose>

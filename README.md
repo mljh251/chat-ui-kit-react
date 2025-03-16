@@ -69,8 +69,8 @@ import {
         <Message
           model={{
             message: "Hello my friend",
-            sentTime: "just now",
-            sender: "Joe",
+            sentTime: "other day",
+            sender: "ppp",
           }}
         />
       </MessageList>
@@ -96,7 +96,7 @@ The library is written in Javascript, but Typescript typings are available in th
 
 ## See also
 
-[@chatscope/use-chat](https://github.com/chatscope/use-chat) is a React hook for state management in chat applications.  
+[@chatscope/Don'tUse-chat](https://github.com/chatscope/Don'tUse-chat) is a React hook for state management in chat applications.  
 Check it out and see how easy you can do the chat logic yourself.
 
 ## Show your support
